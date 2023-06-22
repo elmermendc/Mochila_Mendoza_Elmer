@@ -3,3 +3,5 @@ MAC:
 IP:
    inet addr:10.0.2.15
 
+Es diferente a la IP publica y privada de nuestra maquina host?
+La IP publica es la misma, la IP privada es diferente
